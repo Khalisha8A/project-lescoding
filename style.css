@@ -1,5 +1,5 @@
 body {
-	background-color: lightblue;
+	background-color: lightpink;
 	text-align: center;
 	font-family: monospace;
 	padding-bottom: 25px;
@@ -38,7 +38,7 @@ nav b {
 	margin-left: auto;
 	padding: 5px;
 	border-radius: 15px;
-	background-color: white;
+	background-color: lightgreen;
 	color: black;
 }
 
@@ -57,7 +57,7 @@ nav b {
 /* end of row and column */
 
 .perkenalan {
-	background-color:burlywood;
+	background-color:floralwhite;
 	margin: 50px;
 	border-radius: 50px;
 }
